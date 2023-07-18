@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Felipe Gerardi
+- 👀 I’m interested in front-end and ux/ui
