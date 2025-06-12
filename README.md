@@ -2,10 +2,8 @@
 
 💻🖥️ Full-stack Developer with a diverse toolkit! From crafting dynamic web apps to building custom solutions, I thrive in:
 
-- PHP & Laravel: Building robust and scalable backends.
-- WordPress: Custom themes and plugins for unique web experiences.
-- JavaScript & React: Creating interactive, responsive UIs.
-- C#: Developing efficient and maintainable software solutions.
+- Python/Django: Building robust and scalable backends.
+- JS/React & Tailwind: Creating interactive, responsive UIs.
 - MySQL: Designing and managing relational databases.
 
 
