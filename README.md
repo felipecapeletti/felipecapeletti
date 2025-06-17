@@ -1,16 +1,45 @@
-## 👋😁 Hi, I'm Felipe Gerardi
+## 👋 Hello World! I'm Felipe Gerardi
 
-💻🖥️ Full-stack Developer with a diverse toolkit! From crafting dynamic web apps to building custom solutions, I thrive in:
+### 🎨 Front-End Developer | UI/UX Designer
 
-- Python/Django: Building robust and scalable backends.
-- JS/React & Tailwind: Creating interactive, responsive UIs.
-- MySQL: Designing and managing relational databases.
+---
 
+### 📌 About Me:
 
-🔧 Always expanding my skillset with version control (GitHub) and clear documentation to ensure seamless project collaboration.
+Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focused on creating responsive, user-centered interfaces with high attention to design and performance. I love solving problems through clean code and intuitive design.
 
-💡 Whether it's coding, collaborating, or problem-solving, I'm passionate about pushing boundaries and creating something meaningful.
+---
 
-🚀 Let's connect and innovate together
+### 🛠️ Tech Stack:
 
-<img src="https://github.com/user-attachments/assets/bdfd873d-c0ec-43ae-a5c2-164f4461b130">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats:
+
+<div align="center">
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipecapeletti&show_icons=true&theme=radical)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecapeletti&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gerardi-968322203/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://dimgrey-wren-943685.hostingersite.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.fgerardi@gmail.com)
+
+---
+
+### ✨ Quote:
+
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
