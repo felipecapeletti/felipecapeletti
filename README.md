@@ -41,7 +41,7 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 
 <div align="center">
 
-![Felipe's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipecapeletti&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecapeletti&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipecapeletti&layout=compact&theme=radical)
 
@@ -61,5 +61,3 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 ### ✨ Quote:
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecapeletti&theme=github_dark" />
