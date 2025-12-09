@@ -62,4 +62,4 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecapeletti&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecapeletti&theme=github_dark" />
