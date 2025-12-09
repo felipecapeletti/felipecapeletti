@@ -61,3 +61,5 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 ### ✨ Quote:
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+
+![snake gif](https://raw.githubusercontent.com/felipecapeletti/felipecapeletti/output/snake.svg)
