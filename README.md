@@ -34,11 +34,12 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 
 <div align="center">
 
-![Felipe's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=felipecapeletti&show_icons=true&theme=radical&cache_seconds=1800](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipecapeletti&show_icons=true&theme=radical))
+![Felipe's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipecapeletti&show_icons=true&theme=radical)
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=felipecapeletti&layout=compact&theme=radical&cache_seconds=1800](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipecapeletti&layout=compact&theme=radical))
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipecapeletti&layout=compact&theme=radical)
 
 </div>
+
 
 ---
 
