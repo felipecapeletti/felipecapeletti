@@ -49,9 +49,8 @@ Hi! I'm Felipe, a passionate **Front-End Developer** and **UI/UX Designer** focu
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gerardi-968322203/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://dimgrey-wren-943685.hostingersite.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.fgerardi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/felipe-gerardi-capeletti-lacativa-968322203)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/felipecapeletti)
 
 ---
 
