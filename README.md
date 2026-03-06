@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Felipe Gerardi
 
-### 🎨 Front-End Developer | UI/UX Designer
+### 🎨 Full-Stack Developer | UI/UX Designer
 
 ---
 
